@@ -14,9 +14,9 @@
     }
   ],
   "scripts": [
-    "A:/Users/feder/AppData/Local/FoundryVTT/Data/modules/roll-this-for-me/abilityCheckDialog.js"
+    "https://raw.githubusercontent.com/crimsoniac22/Roll-this-for-me/main/abilityCheckDialog.js"
   ],
   "templates": [
-    "A:/Users/feder/AppData/Local/FoundryVTT/Data/modules/roll-this-for-me/abilityCheckDialog.html"
+    "https://raw.githubusercontent.com/crimsoniac22/Roll-this-for-me/main/abilityCheckDialog.html"
   ]
 }
