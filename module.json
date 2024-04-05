@@ -1,0 +1,22 @@
+{
+  "id": "roll-this-for-me",
+  "title": "Roll this for me",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "Ask for rolls for your players.",
+  "authors": [
+    {
+      "name": "Crimsoniac",
+      "flags": {}
+    }
+  ],
+  "scripts": [
+    "A:/Users/feder/AppData/Local/FoundryVTT/Data/modules/roll-this-for-me/abilityCheckDialog.js"
+  ],
+  "templates": [
+    "A:/Users/feder/AppData/Local/FoundryVTT/Data/modules/roll-this-for-me/abilityCheckDialog.html"
+  ]
+}
